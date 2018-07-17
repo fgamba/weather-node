@@ -1,0 +1,1 @@
+## App to find dinamically the weather in a given city
