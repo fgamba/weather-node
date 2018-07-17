@@ -1,0 +1,14 @@
+footer {
+    background: #343a40;
+    color:#fff;
+    text-align: center;
+    padding: 10px 0;
+}
+img.img-thumbnail {
+    max-width: 350px;
+}
+
+h2 {
+    color:#454545;
+    text-align:center;
+}
